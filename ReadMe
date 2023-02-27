@@ -1,1 +1,2 @@
-1. go get github.com/ergo-services/ergo 安装ergo
+0. 先关闭go mod 模式:go env -w GO111MODULE=off
+1. 安装ergo:go get github.com/ergo-services/ergo
